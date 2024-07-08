@@ -1,0 +1,51 @@
+.ruby-version
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Exclude bundle config and installed gems
+.bundle/
+vendor/bundle/
+
+# Exclude node modules
+node_modules/
+
+# Exclude environment variables
+.env
+
+# Exclude personal data
+.jekyll-metadata
+
+# Exclude Mac files
+.DS_Store
+
+# Exclude Linux files
+.*swp
+*~
+
+# Exclude Windows files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Exclude text editor/IDE files
+.vscode/
+.idea/
+*.sublime*
+*.swp
+*.swo
+*.swn
+*.swm
+*.swl
+
+# Exclude other files
+*.gem
+*.rbc
+.capistrano/
+config/deploy.rb
+*.sass-cache
+mkmf.log
+
+# Exclude Jekyll build output
+/_site/
