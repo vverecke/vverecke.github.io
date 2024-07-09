@@ -4,6 +4,8 @@ description: >-
   with full ownership and product mindset.
 
 github_username:  vverecke
+baseurl: /vverecke.github.io
+url: http://vverecke.github.io
 
 # Build settings
 remote_theme: pages-themes/slate@v0.2.0

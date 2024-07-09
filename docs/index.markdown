@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Viktor Vereckei | DevOps|Platform Engineer"
+title: "Viktor Vereckei | DevOps/Platform Engineer"
 permalink: /
 ---
 
-I’m your go-to **Ops Guy** to turn ideas into scaleable products. DevOps? SRE? Platform? MLOps? I've spent a good chunk of my career making sure both development and production run smoothly, securely, and automated.
+I’m your go-to guy to turn ideas into scaleable products. **DevOps? SRE? Platform? MLOps?** I've spent a good chunk of my career making sure both development and production run smoothly, securely, and automated.
 
 My mother used to read me bedtime stories from _Linux in a Nutshell_ and my first word was `sudo`. I’m all about building and maintaining super robust, scalable, and efficient tech infrastructures. It’s kind of like being a digital architect but with less concrete and more code. Here’s where I shine:
 
@@ -23,7 +23,7 @@ My mother used to read me bedtime stories from _Linux in a Nutshell_ and my firs
 
 **Migrations** - From self-hosted to cloud, from EC2 to EKS. Name it and I plan & implement it.
 
-**Automated CI/CD Pipeline** - Self-service for developers, self-healing for deployments.
+**Automated CI/CD Pipelines** - Self-service for developers, self-healing for deployments.
 
 **Kubernetes Cluster Optimization** - I fine-tune infrastructure to match project needs and find where the money leaks with cost tracking.
 
@@ -31,7 +31,7 @@ My mother used to read me bedtime stories from _Linux in a Nutshell_ and my firs
 
 Because sometimes, a hashtag speaks louder than a bullet point. Here's what I bring to the table:
 
-`#CloudComputing` `#Consultancy` `#AWS` `#Docker` `#Kubernetes` `#EKS` `#CICD` `#Jenkins` `#GitHub` `#ArgoCD` `#Terraform` `#Ansible` `#Prometheus` `#Grafana` `#ELK` `#Bash` `#Python` `#Groovy` `#SQL` `#NoSQL` `#HELM` `#Greenfield` `#SRE` `#DevOps` `#MLOps` `#Consultancy`
+`#CloudComputing` `#Consultancy` `#AWS` `#Docker` `#Kubernetes` `#EKS` `#CICD` `#Jenkins` `#GitHub` `#ArgoCD` `#Terraform` `#Ansible` `#Prometheus` `#Grafana` `#JFRog` `#Bash` `#Python` `#Groovy` `#SQL` `#NoSQL` `#HELM` `#Greenfield` `#SRE` `#DevOps` `#MLOps` `#Consultancy`
 
 ## Let’s Connect!
 
