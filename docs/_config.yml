@@ -3,8 +3,7 @@ description: >-
   I turn ideas into scalable distributed production deployments
   with full ownership and product mindset.
 
-github_username:  vverecke
-baseurl: /vverecke.github.io/docs
+github_username: vverecke
 url: "https://vverecke.github.io"
 
 # Build settings
