@@ -4,41 +4,48 @@ title: "Viktor Vereckei | DevOps/Platform Engineer"
 permalink: /
 ---
 
-I’m your go-to guy to turn ideas into scaleable products. **DevOps? SRE? Platform? MLOps?** I've spent a good chunk of my career making sure both development and production run smoothly, securely, and automated.
+I design, build, and run AWS-first platforms that ship reliably at scale. My core strengths are Amazon EKS, CI/CD, and automation. I bring a product mindset to DevOps so teams can deliver faster and safer, with clear guardrails and great developer experience. I also cover adjacent SRE and platform engineering practices.
 
-My mother used to read me bedtime stories from _Linux in a Nutshell_ and my first word was `sudo`. I’m all about building and maintaining super robust, scalable, and efficient tech infrastructures. It’s kind of like being a digital architect but with less concrete and more code. Here’s where I shine:
+## What I focus on
 
-- ☁️ **Cloud Infrastructure**: Especially AWS, but all cloud providers just want the same thing.
-- 🐳 **Containerization & Orchestration**: Docker and Kubernetes are buddies.
-- 🔄 **CI/CD Pipelines**: I make Jenkins, GitHub Actions, and ArgoCD do the heavy lifting.
-- 🛠️ **Infrastructure as Code (IaC)**: Terraform, Ansible, CloudFormation are my tools of choice.
-- 👀 **Monitoring & Observability**: Keeping an eye on things with Prometheus, Grafana, ELK Stack.
-- 📜 **Scripting & Automation**: Bash and Python are my magic wands.
-- 💾 **Database Management**: I can handle SQL, NoSQL, and even the complex Data Warehousing.
-- 🤖 **Machine Learning Operations**: Making sure AI models play nice in the real world.
+- **AWS architecture**: VPC design, IAM and security baselines, networking, multi-account setup, cost-aware patterns.
+- **Kubernetes on EKS**: cluster and add-on architecture, ingress and service networking, autoscaling, upgrades, multi-region readiness, observability.
+- **CI/CD and GitOps**: GitHub Actions, Jenkins, Argo CD, release strategies, environment promotion, policy and security scans in the pipeline.
+- **Automation**: Terraform, Ansible, Python, Bash. Reusable modules, DRY workflows, self-service templates for teams.
+- **Observability and reliability**: Prometheus, Grafana, CloudWatch, alerting, SLOs, incident response practices.
+- **Platform engineering**: golden paths, paved roads, internal developer tooling that reduces lead time and increases consistency.
 
-## Cool Stuff I’ve Done 🚀
+## Selected work
 
-**Design HELM charts and deploy them to Kubernetes** - Countless apps, let them be both internal or highly-available multi-region production ones.
-
-**Migrations** - From self-hosted to cloud, from EC2 to EKS. Name it and I plan & implement it.
-
-**Automated CI/CD Pipelines** - Self-service for developers, self-healing for deployments.
-
-**Kubernetes Cluster Optimization** - I fine-tune infrastructure to match project needs and find where the money leaks with cost tracking.
+- Built and maintained Helm charts and deployed to Kubernetes across internal and internet-facing production systems.
+- Planned and executed migrations to AWS and EKS from on-prem and EC2, with phased cutovers and rollback plans.
+- Implemented self-service CI/CD with automated builds, tests, and progressive delivery to multiple environments.
+- Optimized clusters and workloads for performance and cost through rightsizing, autoscaling, and request/limit hygiene.
 
 ## Skills
 
-Because sometimes, a hashtag speaks louder than a bullet point. Here's what I bring to the table:
+`#AWS` `#EKS` `#Kubernetes` `#CI/CD` `#GitHubActions` `#Jenkins` `#ArgoCD` `#Terraform` `#Ansible` `#Docker` `#Helm` `#Python` `#Bash` `#Prometheus` `#Grafana` `#CloudWatch` `#SRE` `#PlatformEngineering` `#DevOps`
 
-`#CloudComputing` `#Consultancy` `#AWS` `#Docker` `#Kubernetes` `#EKS` `#CICD` `#Jenkins` `#GitHub` `#ArgoCD` `#Terraform` `#Ansible` `#Prometheus` `#Grafana` `#JFRog` `#Bash` `#Python` `#Groovy` `#SQL` `#NoSQL` `#HELM` `#Greenfield` `#SRE` `#DevOps` `#MLOps` `#Consultancy`
+## How I work
 
-## Let’s Connect!
+- **Product mindset**: outcomes over output, tight feedback loops, measurable improvements in delivery and reliability.
+- **Security by default**: least privilege IAM, secrets management, image scanning, policy enforcement.
+- **DRY and GitOps**: single source of truth, reproducible environments, automation from commit to production.
 
-I’m always down for a chat about tech, future projects, or the latest in cloud innovations. Hit me up:
+## Languages
+
+- English: full professional
+- Hungarian: native or bilingual
+
+
+## Availability
+
+- B2B/Fulltime, CET, Remote
+
+## Let’s connect
+
+If you’re looking to strengthen your AWS platform, streamline delivery on EKS, or upgrade your CI/CD and automation, let’s talk.
 
 [viktor.vereckei@gmail.com](mailto:viktor.vereckei@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktor-vereckei/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/vverecke)
-
-Thanks for dropping by my digital space. Let’s make something awesome together! 🤘
